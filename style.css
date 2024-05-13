@@ -1,0 +1,73 @@
+<style>/* Style the header */
+header h1 {
+    color: white;
+}
+
+/* Style the navigation links */
+nav ul li a {
+    text-decoration: none;
+}
+
+/* Style the sidebar */
+aside h2 {
+    color: Black;
+}
+
+/* Style the main content area */
+main h2 {
+    font-size: 24px;
+}
+
+/* Style the footer */
+footer p {
+    text-align: center;
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav {
+    background-color: #f1f1f1;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 18px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    padding: 18px;
+}
+
+.box {
+    border: 2px solid #333;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}</style>
